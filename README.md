@@ -1,1 +1,4 @@
-# Used-Car-Machine-Learning-Algo
+# Used Car Machine Learning Algorithm
+
+Developed and trained a machine learning model to predict the prices of cars based on given parameters, such as horsepower, 0-60 MPH times, and the manufactured year of the car.
+Pulled dataset from Kaggle, utilized NumPy, Pandas, Matplotlib, Seaborn, SK Learn
